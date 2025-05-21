@@ -34,24 +34,3 @@ Este projeto é uma aplicação desenvolvida com **Streamlit**, **Plotly** e **B
 
 ```bash
 pip install -r requirements.txt
-```
-
-### Executar a aplicação
-
-```bash
-streamlit run main.py
-```
-
----
-
-## 📌 Observações
-
-- O scraper pode ser afetado por mudanças no layout do site do ZapImóveis.
-- As buscas são feitas por estado e cidade (ex: `SC` + `florianopolis`).
-- Apenas imóveis com aluguel mensal são considerados.
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT.
